@@ -20,7 +20,9 @@
     // Do any additional setup after loading the view, typically from a nib.
     
     self.view.backgroundColor = [UIColor whiteColor];
-    
+    self.view.backgroundColor = [UIColor whiteColor];
+    self.view.backgroundColor = [UIColor whiteColor];
+    self.view.backgroundColor = [UIColor whiteColor];
     self.aaa = [[UILabel alloc] initWithFrame:CGRectMake(0, 300, 20, 500)];
     _aaa.text = @"12        11        10       9        8        7       6       5       4     3";
     _aaa.numberOfLines = 0;
